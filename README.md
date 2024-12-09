@@ -1,4 +1,4 @@
-# ATmega4089_project1
+# ATmega4089_project
 Project 2 code for Embedded Software Module in the University of Limerick
 
 Programming Microchip's AVR ATmega4089 MCU with the help of the Arduino Nano Every using C programming language.
